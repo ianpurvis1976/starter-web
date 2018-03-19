@@ -19,3 +19,7 @@ Sample website with plenty of files for demos
 Deployment text
 
 ##  How to Contribute
+
+####Copyright
+
+2018 IP
